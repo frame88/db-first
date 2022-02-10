@@ -1,0 +1,9 @@
+auto features
+id => primary key - notnull - autoincrement - unique
+marchio => varchar 100 - notnull
+km => int - notnull
+anno => int - notnull
+colore => varchar 100 - notnull
+genere assicurazione => text - notnull
+optional => varchar 255 - notnull
+antifurto => text - notnull
